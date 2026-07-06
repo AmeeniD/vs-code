@@ -4,6 +4,71 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Cricket World</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+}
+
+header{
+    background:green;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+section{
+    width:90%;
+    margin:30px auto;
+}
+
+.container{
+    display:flex;
+    gap:20px;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+.card{
+    background:white;
+    width:320px;
+    padding:15px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+    text-align:center;
+}
+
+img{
+    width:100%;
+    border-radius:10px;
+}
+
+h2{
+    color:green;
+    margin:15px 0;
+}
+
+audio,video{
+    width:100%;
+    margin-top:15px;
+}
+
+footer{
+    background:#222;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:30px;
+}
+</style>
+
 </head>
 <body>
 
@@ -33,25 +98,22 @@
                 oval-shaped field. Cricket is one of the most popular sports in the world. It is
                 played between two teams, with each team having 11 players.
                 The game is played using a bat, a ball, and wickets on a large
-                oval-shaped field. Cricket is one of the most popular sports in the world. It is
-                played between two teams, with each team having 11 players.
-                The game is played using a bat, a ball, and wickets on a large
                 oval-shaped field.
         </p>
     </div>
 
-    <div class="card"> 
+    <div class="card">
         <h2>Cricket Audio</h2>
-        <audio controls>
-            <source src=""C:\Users\skame\Downloads\devara_bgm.mp3"" type="audio/mpeg">
+        <audio controls auto play loop>         
+             <source src="https://www.zedge.net/ringtones/9a14dc69-1292-41a6-96ff-fbfb79ab17dd" type="audio/mpeg">
             Your browser does not support audio.
         </audio>
     </div>
 
     <div class="card">
         <h2>Cricket Video</h2>
-        <video controls auto play loop>
-            <source src=""C:\Users\skame\OneDrive\Videos\2025-12-21_09-14-12.mkv"" type="video/mp4">
+        <video controls>
+            <source src="cricket-video.mp4" type="video/mp4">
             Your browser does not support video.
         </video>
     </div>
