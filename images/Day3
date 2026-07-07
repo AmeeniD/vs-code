@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cricket World</title>
+</head>
+
+    <section>
+        <div>
+            <h1> Bear is hunting fishes</h1>
+            <video width="320" height="240" controls muted>
+                <source src="./movie.mp4" type="video/mp4">
+            </video>
+        </div>
+    </section>
+    <hr>
+     <section>
+        <div>
+            <h2> Bear is hunting fishes</h2>
+            <video width="320" height="240" controls loop>
+                <source src="movie.mp4" type="video/mp4">
+            </video>
+        </div>
+    </section>
+    <hr>
+    <section>
+        <div>
+            <h3> Bear is hunting fishes </h3>
+            </h3>
+             <video width="320" height="240" controls autoplay>
+                <source src="./movie.mp4" type="video/mp4">
+            </video>
+        </div>
+    </section> 
+    <hr>
+    <section>  
+        <div>
+            <h4> Bear is hunting fishes</h4>
+            <video  width="320" height="240" controls poster="../images/Screenshot (9).png">
+                <source src="./movie.mp4" type="video/mp4">
+            </video>   
+        </div>
+    </section>    
+   <hr>
+    </body>
+    </html>
+        
+    
+
+
+
