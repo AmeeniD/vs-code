@@ -8,7 +8,7 @@
 
     <section>
         <div>
-            <h1> Bear is hunting fishes</h1>
+            <h1> muted bear</h1>
             <video width="320" height="240" controls muted>
                 <source src="./movie.mp4" type="video/mp4">
             </video>
@@ -17,7 +17,7 @@
     <hr>
      <section>
         <div>
-            <h2> Bear is hunting fishes</h2>
+            <h2> loop bear</h2>
             <video width="320" height="240" controls loop>
                 <source src="movie.mp4" type="video/mp4">
             </video>
@@ -25,8 +25,7 @@
     </section>
     <hr>
     <section>
-        <div>
-            <h3> Bear is hunting fishes </h3>
+        <div>auto play bear </h3>
             </h3>
              <video width="320" height="240" controls autoplay>
                 <source src="./movie.mp4" type="video/mp4">
@@ -36,7 +35,7 @@
     <hr>
     <section>  
         <div>
-            <h4> Bear is hunting fishes</h4>
+            <h4> Bear thambnai like poster </h4>
             <video  width="320" height="240" controls poster="../images/Screenshot (9).png">
                 <source src="./movie.mp4" type="video/mp4">
             </video>   

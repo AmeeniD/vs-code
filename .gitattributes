@@ -6,9 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>images</h1>
-    <img src="https://www.google.com/imgres?q=saitama&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F8124EQuWURL._AC_UF894%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FTimes-Comic-Saitama-Poster-Punch%2Fdp%2FB0C7MY3WB4&docid=hBpSz9Gesdm3kM&tbnid=oStOnKdNp_DuCM&vet=12ahUKEwjUpfLHobaVAxXtka8BHdm1GdkQnPAOegUIvgUQAA..i&w=687&h=1000&hcb=2&ved=2ahUKEwjUpfLHobaVAxXtka8BHdm1GdkQnPAOegUIvgUQAA" height="100" width="200">
-    <img src="screenshort.png" alt="Screenshot" height="100" width="200">
+   <ul> <li>Fruits <ul> <li>Apple</li> <li>Banana</li> <li>Orange</li> </ul> </li> <li>Vegetables <ol> <li>Carrot</li> <li>Broccoli</li> </ol> </li> </ul>
+
 </body>
 </html>
 
