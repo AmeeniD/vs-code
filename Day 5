@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>time sheet and learning percentage</title>
+   <style>
+      th,td{
+            border:1px solid black;
+            padding:10px;
+            text-align:bottom;
+      }
+   </style>
+ </head>
+<body>
+
+   <h1>Daily Work Report</h1>
+
+
+   <table style="border: 1px solid black; border-collapse: collapse;">
+      <tr>
+         <th>Date</th>
+         <th>Time</th>
+         <th>Login</th>
+      </tr>
+
+      <tr>
+         <td>17/07/2026</td>
+         <td>10:00 AM</td>
+         <td>Standup call with team members and discussed today's tasks.</td>
+      </tr>
+
+      <tr>
+         <td>17/07/2026</td>
+         <td>10:00 AM - 10:30 AM</td>
+         <td>Teaching about tables and rows in html</td>
+      </tr>
+
+      <tr>
+         <td>17/07/2026</td>
+         <td>10:30 AM - 1:00 PM</td>
+         <td>Worked on HTML tags and CSS. Cleared doubts during the session.</td>
+      </tr>
+
+      <tr>
+         <td>17/07/2026</td>
+         <td>1:00 PM - 1:45 PM</td>
+         <td>Lunch Break</td>
+      </tr>
+
+      <tr>
+         <td>17/07/2026</td>
+         <td>1:45 PM - 4:00 PM</td>
+         <td>Completed morning task and started creating a web page using HTML and CSS.</td>
+      </tr>
+
+      <tr>
+         <td>17/07/2026</td>
+         <td>4:00 PM - 6:30 PM</td>
+         <td>Continued developing the web page in VS Code using HTML and CSS.</td>
+      </tr>
+
+      <tr>
+         <td>17/07/2026</td>
+         <td>6:40 PM - 7:00 PM</td>
+         <td>EOD meeting and task review by trainer.</td>
+      </tr>
+
+      <tr>
+         <td>17/07/2026</td>
+         <td>7:00 PM</td>
+         <td>Logout</td>
+      </tr>
+   </table>
+
+   <h2>HTML Tags Learned</h2>
+
+  <table style="border: 1px solid black; border-collapse: collapse;">
+      <tr>
+         <th>HTML Tag</th>
+         <th>Purpose</th>
+         <th>Learning %</th>
+      </tr>
+
+      <tr>
+         <td>&lt;html&gt;</td>
+         <td>Root Element</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;head&gt;</td>
+         <td>Page Information</td>
+         <td>95%</td>
+      </tr>
+      <tr>
+         <td>&lt;title&gt;</td>
+         <td>Page Title</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;body&gt;</td>
+         <td>Visible Content</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;h1&gt; to &lt;h6&gt;</td>
+         <td>Headings</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;p&gt;</td>
+         <td>Paragraph</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;br&gt;</td>
+         <td>Line Break</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;hr&gt;</td>
+         <td>Horizontal Line</td>
+         <td>90%</td>
+      </tr>
+      <tr>
+         <td>&lt;b&gt;</td>
+         <td>Bold Text</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;i&gt;</td>
+         <td>Italic Text</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;u&gt;</td>
+         <td>Underline</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;strong&gt;</td>
+         <td>Important Text</td>
+         <td>90%</td>
+      </tr>
+      <tr>
+         <td>&lt;em&gt;</td>
+         <td>Emphasized Text</td>
+         <td>90%</td>
+      </tr>
+      <tr>
+         <td>&lt;a&gt;</td>
+         <td>Hyperlink</td>
+         <td>90%</td>
+      </tr>
+      <tr>
+         <td>&lt;img&gt;</td>
+         <td>Image</td>
+         <td>85%</td>
+      </tr>
+      <tr>
+         <td>&lt;ul&gt;</td>
+         <td>Unordered List</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;ol&gt;</td>
+         <td>Ordered List</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;li&gt;</td>
+         <td>List Item</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;table&gt;</td>
+         <td>Create Table</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;tr&gt;</td>
+         <td>Table Row</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;th&gt;</td>
+         <td>Table Heading</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;td&gt;</td>
+         <td>Table Data</td>
+         <td>100%</td>
+      </tr>
+      <tr>
+         <td>&lt;div&gt;</td>
+         <td>Container</td>
+         <td>90%</td>
+      </tr>
+      <tr>
+         <td>&lt;span&gt;</td>
+         <td>Inline Container</td>
+         <td>85%</td>
+      </tr>
+      <tr>
+         <td>&lt;form&gt;</td>
+         <td>Form</td>
+         <td>75%</td>
+      </tr>
+      <tr>
+         <td>&lt;input&gt;</td>
+         <td>User Input</td>
+         <td>75%</td>
+      </tr>
+      <tr>
+         <td>&lt;button&gt;</td>
+         <td>Button</td>
+         <td>85%</td>
+      </tr>
+      <tr>
+         <td>&lt;label&gt;</td>
+         <td>Label</td>
+         <td>80%</td>
+      </tr>
+   </table>
+</body>
+</html>
