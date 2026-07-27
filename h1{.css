@@ -1,0 +1,38 @@
+body {
+    background-color: rgba(105, 106, 106, 0.636);
+    color: green;
+    text-align: center;
+}
+h1 {
+    background-color: burlywood;
+    color: green;
+    text-align: center;
+}
+p {
+      background-color: rgb(177, 135, 222);
+    color: green;
+    text-align: center;
+}
+h2 {
+    background-color: rgb(135, 192, 222);
+    color: green;
+    text-align: center;
+}
+h3 {
+    background-color: rgb(222, 184, 135);
+    color: green;
+    text-align: center;
+}
+h4 {
+    background-color: rgb(135, 209, 222);
+    color: green;
+    text-align: center;
+}h5 {
+    background-color: rgb(222, 135, 166);
+    color: green;
+    text-align: center;
+}h6 {
+    background-color: rgb(135, 222, 210);
+    color: green;
+    text-align: center;
+}    
