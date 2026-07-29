@@ -1,0 +1,47 @@
+body{
+    background-color: #f0f0f0;
+    color: black;
+}
+
+header{
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a{
+    color: white;
+    margin: 10px;
+}
+
+#home{
+    background-color: lightblue;
+    color: black;
+    padding: 20px;
+}
+
+#about{
+    background-color: lightgreen;
+    color: black;
+    padding: 20px;
+}
+
+#service{
+    background-color: lightyellow;
+    color: black;
+    padding: 20px;
+}
+
+#contact{
+    background-color: lightpink;
+    color: black;
+    padding: 20px;
+}
+
+footer{
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
